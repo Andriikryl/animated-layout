@@ -1,3 +1,7 @@
+:root{
+    
+}
+
 
 *, *::before, *::after {
     box-sizing: border-box;
@@ -25,3 +29,4 @@
   #root, #__next {
     isolation: isolate;
   }
+

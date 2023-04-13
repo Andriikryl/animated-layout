@@ -1,5 +1,14 @@
 :root{
-    
+    --clr-primary-400: hsl(243, 95%, 39%);
+    --clr-natural-100: #fff;
+    --clr-natural-300: hsl(0 0% 70%);
+    --clr-natural-900: #000;
+
+    --fonst-size-300: .975rem;
+    --font-size-400: 1.125rem;
+    --font-size-500:1.25rem;
+    --font-size-600: 1.75rem;
+    --font-size-700: 3rem;
 }
 
 
@@ -30,3 +39,5 @@
     isolation: isolate;
   }
 
+
+  
